@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /thank-you/
+Disallow: /brochure-download/
+Sitemap: https://facilitiesmanagementtraining.co.za/sitemap.xml

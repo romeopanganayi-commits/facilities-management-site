@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="94" viewBox="0 0 360 94" role="img" aria-label="Institute of Corporate Learning">
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f6b43"/><stop offset="1" stop-color="#7bbd45"/></linearGradient>
+  </defs>
+  <circle cx="43" cy="33" r="17" fill="#c9a227" opacity=".92"/>
+  <path d="M27 71C44 42 66 28 92 24C78 45 61 65 27 71Z" fill="url(#leaf)"/>
+  <path d="M24 24C41 38 54 55 57 82C35 72 19 54 24 24Z" fill="#0f6b43" opacity=".86"/>
+  <text x="110" y="39" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#081426">ICL</text>
+  <text x="110" y="63" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#0f6b43">Institute of Corporate Learning</text>
+  <text x="111" y="79" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="500" fill="#667085">Governance • Leadership • Executive Development</text>
+</svg>
